@@ -16,3 +16,7 @@
   max-width: 500px;
   margin: 30px auto;
 }
+.email {
+  text-align: center;
+  text-decoration: none;
+}
