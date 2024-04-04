@@ -11,6 +11,9 @@
   display: block;
   margin: 30px auto;
   text-align: center;
+}
+.photo-container a,
+.container a {
   text-decoration: none;
 }
 .croissant-image {
@@ -20,4 +23,8 @@
 .email {
   text-align: center;
   text-decoration: none;
+}
+.blue {
+  color: blue;
+  border: none;
 }
